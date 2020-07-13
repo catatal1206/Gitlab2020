@@ -1,0 +1,9 @@
+{
+	"messages": [
+		"{0} Debug"
+	],
+	"keys": [
+		"codelens.debug"
+	],
+	"filePath": "ui/npmScriptLens"
+}
